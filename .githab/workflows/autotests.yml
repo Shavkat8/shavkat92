@@ -1,6 +1,6 @@
 name: Run Autotests
 
-on: [push, pull_request]  # Запуск при пуше или PR
+on: [push, pull_request]
 
 jobs:
   test:
